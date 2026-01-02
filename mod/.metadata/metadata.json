@@ -6,7 +6,7 @@
   "picture" : "thumbnail.png",
   "supported_game_version" : "1.12.*",
   "short_description" : "build new building",
-  "tags" : [Utilities],
+  "tags" : {"Gameplay"},
   "relationships" : [],
   "game_custom_data" : {
     "multiplayer_synchronized" : true
